@@ -1,4 +1,4 @@
-name: fastdvdnet
+#name: fastdvdnet
 channels:
   - pytorch
   - conda-forge
